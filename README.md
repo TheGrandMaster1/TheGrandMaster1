@@ -18,6 +18,10 @@
  🌱 I’m currently learning: **Power, Control, and Digital systems**
   
  ⚡ Fun fact: **The Xbox 360’s "Red Ring of Death" was caused by solder cracks from overheating...a $1 billion engineering oops**
+
+
+   ![giphy](https://github.com/user-attachments/assets/c798f710-a3aa-42b2-9a47-b2e6518895f8)
+
   </div>
 
   
