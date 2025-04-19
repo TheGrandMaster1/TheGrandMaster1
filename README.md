@@ -6,7 +6,7 @@
     
 </h1>
 
-<h3 align="center">A Student pursuing a BSc. in Electrical Engineering @McGill
+<h3 align="center"> 🎓 A U3 Student pursuing a BSc. in Electrical Engineering @McGill
 </h3>
 
 <br/>
