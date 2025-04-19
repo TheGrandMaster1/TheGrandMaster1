@@ -5,9 +5,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=700&repeat=true&color=4078c0&center=true&vCenter=true&width=400&lines=%7E%28+%CB%98%E2%96%BE%CB%98%7E%29;%28+%7E%CB%98%E2%96%BE%CB%98%29%7E" />
     
 </h1>
+<img src="https://github.com/user-attachments/assets/6ff7eb7a-a4d9-4850-bcbb-dbf75eb4f9f6" width="80" />
+<img src="https://github.com/user-attachments/assets/6ff7eb7a-a4d9-4850-bcbb-dbf75eb4f9f6" width="80" />
+<img src="https://github.com/user-attachments/assets/6ff7eb7a-a4d9-4850-bcbb-dbf75eb4f9f6" width="80" />
+<img src="https://github.com/user-attachments/assets/6ff7eb7a-a4d9-4850-bcbb-dbf75eb4f9f6" width="80" />
+<img src="https://github.com/user-attachments/assets/6ff7eb7a-a4d9-4850-bcbb-dbf75eb4f9f6" width="80" />
+<img src="https://github.com/user-attachments/assets/6ff7eb7a-a4d9-4850-bcbb-dbf75eb4f9f6" width="80" />
+<img src="https://github.com/user-attachments/assets/6ff7eb7a-a4d9-4850-bcbb-dbf75eb4f9f6" width="80" />
+<img src="https://github.com/user-attachments/assets/6ff7eb7a-a4d9-4850-bcbb-dbf75eb4f9f6" width="80" />
+<img src="https://github.com/user-attachments/assets/6ff7eb7a-a4d9-4850-bcbb-dbf75eb4f9f6" width="80" />
+<img src="https://github.com/user-attachments/assets/6ff7eb7a-a4d9-4850-bcbb-dbf75eb4f9f6" width="80" />
+<img src="https://github.com/user-attachments/assets/6ff7eb7a-a4d9-4850-bcbb-dbf75eb4f9f6" width="80" />
+<img src="https://github.com/user-attachments/assets/6ff7eb7a-a4d9-4850-bcbb-dbf75eb4f9f6" width="80" />
 
-<h3 align="center"> 🎓 A U3 Student pursuing a BSc. in Electrical Engineering @McGill
-</h3>
+<h3 align="center"> 🎓 A U3 Student pursuing a BSc. in Electrical Engineering @McGill</h3> 
 
 <br/>
 
@@ -22,6 +33,7 @@
 
    ![giphy](https://github.com/user-attachments/assets/c798f710-a3aa-42b2-9a47-b2e6518895f8)
 
+  
   </div>
 
   
