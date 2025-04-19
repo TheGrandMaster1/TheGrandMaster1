@@ -6,7 +6,19 @@
     
 </h1>
 
-<h3 align="center">A passionate Electrical Engineering Student from McGill</h3>
+<h3 align="center">A Student pursuing a BSc. in Electrical Engineering @McGill
+</h3>
+
+<br/>
+
+<div align="center">
+
+ 🔭 I’m currently working on: **university assignments**
+ 
+ 🌱 I’m currently learning: **Power, Control, and Digital systems**
+  
+ ⚡ Fun fact: **The Xbox 360’s "Red Ring of Death" was caused by solder cracks from overheating...a $1 billion engineering oops**
+  </div>
 
   
 <!--
