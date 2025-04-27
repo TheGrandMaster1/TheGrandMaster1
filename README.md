@@ -24,7 +24,7 @@
 
 <div align="center">
 
- 🔭 I’m currently working on: **university assignments**
+ 🔭 I’m currently working on: **Chip 8 Emulator**
  
  🌱 I’m currently learning: **Power, Control, and Digital systems**
   
