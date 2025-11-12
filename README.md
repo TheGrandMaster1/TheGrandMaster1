@@ -26,7 +26,7 @@
 
  🔭 I’m currently working on: **Chip 8 Emulator**
  
- 🌱 I’m currently learning: **Power, Control, and Digital systems**
+ 🌱 I’m currently learning: **Power, Control, and Embedded systems**
   
  ⚡ Fun fact: **The Xbox 360’s "Red Ring of Death" was caused by solder cracks from overheating...a $1 billion engineering oops**
 
